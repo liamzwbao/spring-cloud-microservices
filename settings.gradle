@@ -1,2 +1,6 @@
 rootProject.name = 'spring-cloud-microservices'
+include 'currency-exchange-service'
+include 'currency-conversion-service'
+include 'naming-server'
+include 'api-gateway'
 
